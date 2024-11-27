@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning.
+- 🌱 I’m Shakirah Adeniji.
+- 🌱 I’m currently learning programming.
 
 <!--
 **shakirah251/shakirah251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
